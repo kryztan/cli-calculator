@@ -7,4 +7,4 @@ It accepts inputs and outputs the results, continuously, until the user stops us
 
 To stop using the calculator, input "exit".
 
-To run the tests, run `php artisan test`
+To run the tests, run `php artisan test`.
