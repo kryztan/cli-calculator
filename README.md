@@ -1,4 +1,4 @@
-# cli-calculator
+## Cli Calculator
 A Laravel calculator that performs basic operations
 
 Run `php artisan calculator` to use the calculator.
